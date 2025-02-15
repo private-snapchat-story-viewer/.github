@@ -44,7 +44,7 @@ The tool is fully optimized for both **mobile and desktop devices**, so you can 
 ### Step-by-Step Guide to Using the Tool
 
 1. **Visit the Website**  
-   Navigate to the [Private Snapchat Viewer](https://tinyurl.com/466nxzrk) homepage using any web browser.
+   Navigate to the [Private Snapchat Viewer](https://github.com/private-tiktok-profile-viewer) homepage using any web browser.
 
 2. **Enter the Username**  
    Simply input the **Snapchat username** of the account whose stories or profile you want to view.
