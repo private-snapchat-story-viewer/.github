@@ -1,6 +1,6 @@
 # Private Snapchat Viewer - View Snaps & Stories Anonymously Online
 
-| ![Private Snapchat Viewer](https://github.com/user-attachments/assets/5e6248a2-5345-46da-9ae4-26ed4ab690f7) | [**Start Viewing Now**](https://tinyurl.com/466nxzrk) |
+| ![Private Snapchat Viewer](https://github.com/user-attachments/assets/5e6248a2-5345-46da-9ae4-26ed4ab690f7) | [**Start Viewing Now**](https://snaplooker.com/) |
 |:------------------------------------------------:|-----------------------|
 | **Platform**: Web-Based                          | **Version**: 2.16     |
 | **Size**: N/A                                    | ⭐⭐⭐⭐⭐ (4.9/5)         |
@@ -44,7 +44,7 @@ The tool is fully optimized for both **mobile and desktop devices**, so you can 
 ### Step-by-Step Guide to Using the Tool
 
 1. **Visit the Website**  
-   Navigate to the [Private Snapchat Viewer](https://github.com/private-tiktok-profile-viewer) homepage using any web browser.
+   Navigate to the [Private Snapchat Viewer](https://snaplooker.com/) homepage using any web browser.
 
 2. **Enter the Username**  
    Simply input the **Snapchat username** of the account whose stories or profile you want to view.
