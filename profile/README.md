@@ -95,6 +95,14 @@ One of the most important features of **Private Snapchat Viewer** is its commitm
 
 ---
 
+
+## Also Try Private TikTok Viewer 
+
+Looking to **view TikTok videos and profiles anonymously**? Check out our **[Private TikTok Viewer](https://github.com/private-tiktok-video-viewer)** – a fast, secure, and free tool that lets you browse **TikTok content** without logging in.  
+
+---
+
+
 ## Frequently Asked Questions (FAQs)
 
 ### 1. **Is Private Snapchat Viewer free to use?**
